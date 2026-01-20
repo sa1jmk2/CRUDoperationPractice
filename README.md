@@ -2,9 +2,8 @@
 
 Attempts/Tranning/practice
 January/2026
-sl   :  Date      : Time     :   practiceCount   : Project    : TimeTaken/Duration  : ProjectType :Questionn _Number : QuestionnTpe
-1    :                                           :                                                               :Basic
-2    :            :          :    2              :               :   ≈40 min           :  11q           : 1 to 11           :  Basic
-3    : 18/01/2026 : 11:09pm   :    3             :Retrration(Psa      :    32.05 min        :  11q            : 1 to 11          :Basic    
-3
+sl   :  Date      : Time     :   practiceCount   : Project    : TimeTaken/Duration             :time      : ProjectName   :In Project  : FinalEvaluation⭐:tme end
+1    :                                           :                                                    : 
+2    :            :         :    2              :               :   ≈40 min                    :                             
+3    : 18/01/2026 : 11:09pm :    3             :Retrration(Psa  : 1 day, 18 hours, 26 minutes  :42 hr,26min :   Ruse      :Except,vald :⭐ Score 8.5/10  : 20/jaan/2026/ 5:35PM 
 
